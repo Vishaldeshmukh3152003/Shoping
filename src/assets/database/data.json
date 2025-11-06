@@ -1,0 +1,53 @@
+{
+  "admins": [
+    {
+      "id": "f293",
+      "Uname": "vishal deshmukh",
+      "email": "vishaldeshmukh307@gmail.com",
+      "password": "ok@123",
+      "phone": "07987470228"
+    },
+    {
+      "id": "c48b",
+      "Uname": "vishal deshmukh deshmukh",
+      "email": "vishaldeshmukh307@gmail.com",
+      "password": "okfgdbn",
+      "phone": "07987470228"
+    },
+    {
+      "id": "63ed",
+      "Uname": "manoj am",
+      "email": "manoj303@gmail.com",
+      "password": "manu@123",
+      "phone": "0987654321"
+    },
+    {
+      "id": "a49b",
+      "Uname": "manoj am",
+      "email": "manoj303@gmail.com",
+      "password": "manu@123",
+      "phone": "0987654321"
+    },
+    {
+      "id": "5387",
+      "Uname": "",
+      "email": "",
+      "password": "",
+      "phone": ""
+    },
+    {
+      "id": "926d",
+      "Uname": "vikash rao",
+      "email": "vishaldeshmukh111@gmail.com",
+      "password": "vishak@12",
+      "phone": "85223"
+    },
+    {
+      "id": "2411",
+      "Uname": "vimal rao",
+      "email": "vimalpanmasala111@gmail.com",
+      "password": "masala@12",
+      "phone": "85223852"
+    }
+  ]
+}

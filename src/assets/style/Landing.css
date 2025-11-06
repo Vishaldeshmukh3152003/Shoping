@@ -1,0 +1,20 @@
+.LandingPage{
+display: flex;
+justify-content: center;
+align-items: center;
+position: relative;
+gap: 50px;
+height: 100vh;
+border: 1px solid black;
+
+}
+
+.LandingPage img{
+    width: 10vw;
+    height: 20vh;
+    box-shadow: 0px 0px 10px gray;
+    border-radius: 25%;
+}
+.LandingPage a{
+    text-decoration: none;
+}

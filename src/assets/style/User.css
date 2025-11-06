@@ -1,0 +1,40 @@
+span {
+    position: relative;
+    bottom: -10px;
+    left: 320px;
+    z-index: 1;
+    cursor: pointer;
+}
+
+.user-form {
+    display: flex;
+    flex-direction: column;
+    height: 200 auto;
+    width: 550px;
+    padding: 50px;
+}
+
+.inputdiv {
+    display: flex;
+    width: 500px;
+    justify-content: space-around;
+    /* border: 2px solid red; */
+}
+.user-form-div{
+ width: 100vw;
+ height: 100vh;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+#inputt,#inputt2{
+    width: 1000px;
+    /* border: 2px solid pink; */
+}
+#inputt2{
+    position: relative;
+    right: 10px;
+}
+#formbtn{
+    width:150px;
+}

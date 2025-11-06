@@ -1,0 +1,15 @@
+.ViewProduct{
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    column-gap: 20px;
+}
+.mainimage{
+    width: 500px;
+    height: 500px;
+}
+.desc{
+    width: 600px;
+}
